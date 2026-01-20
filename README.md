@@ -1,6 +1,6 @@
-# Ghana News 2025: Key Word Analysis
+# Ghana News Analysis 2025
 
-A collaborative public information project to identify and visualize the **Top 50 Keywords** appearing in Ghanaian news throughout 2025. This project aims to provide insights into national discourse and trending topics for social media sharing.
+A collaborative public information project to identify and visualize the **Top 50 Keywords** appearing in Ghanaian news throughout 2025.
 
 ## Project Overview
 
@@ -24,9 +24,9 @@ The goal is to scrape at least 5 major Ghanaian news outlets, process the text d
 
 ------
 
-## Contributors & Assignments
+## Contributors
 
-Each participant is responsible for a specific news outlet to ensure broad coverage without duplicating efforts.
+Thanks to our contributors, we cover a wide selection of Ghanaian news sources.
 
 | Contributor                                                  | News Site                                    | Status   |
 | ------------------------------------------------------------ | -------------------------------------------- | -------- |
@@ -39,20 +39,7 @@ Each participant is responsible for a specific news outlet to ensure broad cover
 
 ------
 
-## 🚀 Getting Started
-
-### 1. Installation
-
-Clone the repository and install the necessary libraries:
-
-Bash
-
-```
-pip install newspaper3k spacy pandas
-python -m spacy download en_core_web_sm
-```
-
-### 2. Scraping Guidelines
+## Scraping Guidelines
 
 When scraping your assigned site, please ensure:
 
@@ -61,16 +48,10 @@ When scraping your assigned site, please ensure:
 
 ### 3. Processing (Tokenization)
 
-As discussed in the group, we are using **spaCy** for tokenization.
-
-**Basic Workflow:**
-
-1. Load the `en_core_web_sm` model.
-2. Remove stop words (e.g., "and", "the", "is").
-3. Tokenize the remaining text into cleaned keywords.
+We are using **spaCy** or **nltk** for tokenisation.
 
 ------
 
 ## Communication
 
-All project discussions happen in the project group. If you encounter any issues or have any questions, please post in the group for support.
+If you have any questions or want to contribute to the project, please send an email to natural.language.processing.gh@gmail.com.
