@@ -27,6 +27,66 @@ Thanks to our contributors
 
 ## Results
 
+The following keywords appeared most frequently in Ghanaian news in 2025, each appearing in in 980 articles on average.
+
+| **Phrase**                 | **Count** |
+| -------------------------- | --------- |
+| Galamsey/illegal mining    | 8867      |
+| Jobs                       | 3077      |
+| Training                   | 3022      |
+| Research                   | 2498      |
+| Infrastructure             | 2435      |
+| Construction               | 2071      |
+| Skills                     | 1887      |
+| Employment                 | 1355      |
+| Mining                     | 1301      |
+| Job Creation               | 1277      |
+| Production                 | 1276      |
+| Investments                | 1172      |
+| Agribusiness               | 1145      |
+| Entrepreneurship           | 948       |
+| 24-Hour Economy            | 868       |
+| Illegal Mining Activities  | 839       |
+| Artificial Intelligence    | 838       |
+| Energy sector              | 779       |
+| Electricity                | 730       |
+| Innovations                | 706       |
+| Green Transition           | 651       |
+| Engineering                | 638       |
+| Reform                     | 614       |
+| Digital Technology         | 610       |
+| Manufacturing              | 574       |
+| Youth Development          | 563       |
+| Procurement                | 538       |
+| Digital Transformation     | 533       |
+| Infrastructure development | 513       |
+| ICT                        | 480       |
+| Community Development      | 451       |
+| Renewable energy           | 446       |
+| Medicine                   | 408       |
+| Higher Education           | 405       |
+| Mathematics                | 405       |
+| Breast cancer              | 404       |
+| Youth Empowerment          | 399       |
+| Diabetes                   | 398       |
+| Capacity Building          | 398       |
+| Creative Arts              | 386       |
+| Free SHS                   | 384       |
+| Farming                    | 384       |
+| Banking                    | 383       |
+| Insurance                  | 376       |
+| Nutrition                  | 373       |
+| TVET                       | 370       |
+| Economics                  | 369       |
+| Rehabilitation             | 367       |
+| Export                     | 367       |
+| Mental Health              | 364       |
+| Cervical cancer            | 364       |
+| Hypertension               | 362       |
+| NCDs                       | 358       |
+| STEM                       | 352       |
+| Public education           | 350       |
+| Digital platforms          | 349       |
 
 ------
 
