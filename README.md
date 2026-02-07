@@ -36,7 +36,7 @@ The following keywords appeared most frequently in Ghanaian news in 2025, each a
 
 | **Phrase**                 | **Count** |
 | -------------------------- | --------- |
-| Galamsey/illegal mining    | 8867      |
+| Galamsey/illegal mining    | 9706      |
 | Jobs                       | 3077      |
 | Training                   | 3022      |
 | Research                   | 2498      |
@@ -51,7 +51,6 @@ The following keywords appeared most frequently in Ghanaian news in 2025, each a
 | Agribusiness               | 1145      |
 | Entrepreneurship           | 948       |
 | 24-Hour Economy            | 868       |
-| Illegal Mining Activities  | 839       |
 | Artificial Intelligence    | 838       |
 | Energy sector              | 779       |
 | Electricity                | 730       |

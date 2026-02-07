@@ -84,7 +84,7 @@ Manual review was conducted to remove remaining noise and determine appropriate 
 
     Related terms were consolidated to avoid duplication:
 
-   - "Galamsey" and "illegal mining" were merged into a single keyword
+   - "Galamsey", "illegal mining" and "illegal mining activities" were merged as a single keyword
 
 3. **Threshold Determination:** Final frequency cut-off was established based on distribution analysis and relevance
 
