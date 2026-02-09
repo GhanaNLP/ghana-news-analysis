@@ -4,6 +4,8 @@
 
 This document outlines the complete data processing pipeline used to extract and analyze keywords from Ghana News content for 2025. The methodology employed a multi-stage filtering and classification approach to identify concrete, development-related keywords from a large corpus of news articles.
 
+Datasets and scripts used in the processing and analysis are publicly available [here](https://github.com/GhanaNLP/GhanaTopics/).
+
 ------
 
 ## Data Sources
